@@ -45,7 +45,7 @@ A documented Ayurveda institution founded in Kozhikode in 1921, with a GMP-certi
 ## Evidence on Hand
 
 - History, people and dates: `research/01-about-us-notes.md`, `research/source-inventory.csv`.
-- Founder Kaloor Neelakandan Vaidyar (1895–1967), with the blessings of Sree Narayana Guru; successor K. N. Ramadas Vaidyar (1934–1998), his son; today Managing Director Dr Manoj Kaloor, son of K. N. Ramadas Vaidyar (confirmed by the user, 2026-11-07), so three generations; Navathi (90 years) 2011; centenary.
+- Founder Kaloor Neelakandan Vaidyar (1895–1967), with the blessings of Sree Narayana Guru; successor K. N. Ramadas Vaidyar (1934–1998), his son; today Managing Director Dr Manoj Kaloor, son of K. N. Ramadas Vaidyar (confirmed by the user, 2026-11-07); four generations in all, with a fourth now in the work (user, 2026-11-08; names not yet given); Navathi (90 years) 2011; centenary.
 - Film footage: `animatic/`, `lookdev/`, `blender/renders/`.
 - Absent and not to be fabricated: client logos, testimonials, certifications beyond GMP, capacity figures, prices.
 
